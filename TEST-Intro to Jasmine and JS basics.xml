@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="9" errors="0" failures="0" time="0.013" timestamp="2015-07-14T20:05:17">
+		<testcase classname="Intro to Jasmine and JS basics" name="Variables should create a variable called car with the value &amp;quot;Mustang&amp;quot; that is not assigned to the window" time="0.003">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Variables should have a variable return undefined without explicitly assigning it to undefined" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Strings should use string concatention to create a string with the following variables" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Strings should select the right character from the string" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Numbers should correctly floor four" time="0.001">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Booleans should add two booleans together to get 1" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Booleans should convert 0 into false" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Arrays For Loops should be able to use for loops to loop through an array" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="Arrays #forEach should be able to iterate through an array and use numbers and their indices" time="0.002">
+		</testcase>
+	</testsuite>
+</testsuites>
+
